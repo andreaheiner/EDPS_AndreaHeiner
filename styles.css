@@ -23,8 +23,8 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* Example Syntax */
 #sec_lan {
-	height: 5vh;
-	background-color: var(--main-color-light);
+	height: 1vmin;
+	background-color: var(--main-color-light2);
 }
 
 /* Small devices (landscape phones, 576px and up) */
