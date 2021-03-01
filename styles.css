@@ -26,6 +26,11 @@ No media query for `xs` since this is the default in Bootstrap */
 	height: 1vmin;
 	background-color: var(--main-color-light2);
 }
+#sec_abo {
+	height: 200vh;
+	background-color: var(--main-color-white);
+	font-style: var(--main-font-primary: "Roboto");
+}
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
