@@ -33,6 +33,10 @@ No media query for `xs` since this is the default in Bootstrap */
 	font-style: var(--main-font-primary: "Roboto");
 }
 
+.container {
+	width: 100%;
+}
+
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
 }
