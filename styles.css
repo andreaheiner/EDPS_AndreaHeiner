@@ -26,8 +26,9 @@ No media query for `xs` since this is the default in Bootstrap */
 	height: 5vh;
 	background-color: var(--main-color-light2);
 }
+
 #sec_abo {
-	height: 200vh;
+	height: 50vh;
 	background-color: var(--main-color-white);
 	font-style: var(--main-font-primary: "Roboto");
 }
