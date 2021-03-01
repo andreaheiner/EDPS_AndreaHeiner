@@ -23,7 +23,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* Example Syntax */
 #sec_lan {
-	height: 200vh;
+	height: 15vh;
 	background-color: var(--main-color-light);
 }
 
