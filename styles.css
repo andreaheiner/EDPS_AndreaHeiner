@@ -23,12 +23,12 @@ No media query for `xs` since this is the default in Bootstrap */
 
 /* Example Syntax */
 #sec_lan {
-	height: 5vh;
+	height: auto;
 	background-color: var(--main-color-light2);
 }
 
 #sec_abo {
-	height: 50vh;
+	height: auto;
 	background-color: var(--main-color-white);
 	font-style: var(--main-font-primary: "Roboto");
 }
