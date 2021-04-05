@@ -1,15 +1,33 @@
 .math{
     font-size: 30px;
     background-color: lightpink;
+    width: 250px;
+    height 250px;
     padding: 10px;
+    border: 15px solid pink;
     
 }
 .science{
-    background-color: 
+    font-size: 30px;
+    background-color: lightgreen;
+    width: 250px;
+    height 250px;
+    padding: 10px;
+    border: 15px solid green;
 }
 .social studies{
-    
+    font-size: 30px;
+    background-color: lightblue;
+    width: 250px;
+    height 250px;
+    padding: 10px;
+    border: 15px solid blue;
 }
 .language arts{
-    
+    font-size: 30px;
+    background-color: lightorange;
+    width: 250px;
+    height 250px;
+    padding: 10px;
+    border: 15px solid orange;
 }
