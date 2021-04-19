@@ -1,33 +1,23 @@
-.math{
-    font-size: 30px;
-    background-color: lightpink;
-    width: 250px;
-    height 250px;
-    padding: 10px;
-    border: 15px solid pink;
+.flexbox-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: space-around;
+}
+
+.flexbox-item{
+    min-height: 200px;
+    width: 200px;
+    margin: 10px;
+    border: 3px solid black;
     
 }
-.science{
-    font-size: 30px;
-    background-color: lightgreen;
-    width: 250px;
-    height 250px;
-    padding: 10px;
-    border: 15px solid green;
+
+.flexbox-item-1{
+    min-height: 200px;
+
 }
-.socialstudies{
-    font-size: 30px;
-    background-color: lightblue;
-    width: 250px;
-    height 250px;
-    padding: 10px;
-    border: 15px solid blue;
-}
-.languagearts{
-    font-size: 30px;
-    background-color: darkorange;
-    width: 250px;
-    height 250px;
-    padding: 10px;
-    border: 15px solid orange;
-}
+
+.flexbox-item-2{
+    min-height: 200px
